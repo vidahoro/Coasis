@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+body{
+    background-color: #de3700;
+background-image: linear-gradient(90deg, #de3700 0%, #0035ff 100%);
+
+}
+.header{
+    position: relative;
+    background-color: cadetblue;
+    width: 100%;
+    height: 8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 2.5rem;
+    font-size: 2rem;
+    padding-left: 54rem;
+}
+.header__elements li{
+    display: inline-block;
+    color: coral;
+    
+}
