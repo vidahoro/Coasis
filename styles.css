@@ -27,3 +27,9 @@ background-image: linear-gradient(90deg, #de3700 0%, #0035ff 100%);
     color: coral;
     
 }
+.container{
+    color: white;
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
